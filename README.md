@@ -1,6 +1,18 @@
 
-
 # 📊 YouTube Data Analysis using YouTube Data API v3  
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: JERRY PRANEETH 
+
+*INTERN ID*: CT6WPYS  
+
+*DOMAIN*: PYTHON PROGRAMMING 
+
+*DURATION*: 6 WEEKS  
+
+*MENTOR*: NEELA SANTOSH  
+
 
 ## 📌 Overview  
 This project utilizes the **YouTube Data API v3** to fetch and analyze data from specified YouTube channels. The goal is to extract key metrics such as **subscribers, likes, views, and video statistics** to identify the **top-performing and least-performing videos**. The analysis is performed using **Pandas** for data processing and **Seaborn** for visualization.  
