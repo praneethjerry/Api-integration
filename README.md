@@ -58,8 +58,11 @@ python youtube_analysis.py
 ## 📊 Sample Outputs  
 Here are some visualizations generated from the analysis:  
 🔹 **Top 10 Videos by Views**  
-🔹 **Least Performing Videos by Likes**  
-🔹 **Subscriber Growth Trends**  
+![Image](https://github.com/user-attachments/assets/32750779-db17-4946-942f-1dd38bdf0dda)
+**lowest 10 Videos by Views**  
+![Image](https://github.com/user-attachments/assets/9b57de0b-275b-4dfc-9567-32ab8c23b2e3)
+**Comparing Chanbnels By Subs**  
+![Image](https://github.com/user-attachments/assets/bab63f04-e8e8-4138-9b54-3a47bac2b4a5)
 
 *(Include example charts or screenshots here!)*  
 
